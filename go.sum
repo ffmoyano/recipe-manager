@@ -1,0 +1,4 @@
+github.com/ffmoyano/gofer v0.0.0-20230226213312-b30af860e501 h1:hFkzzvep5QWba1XtYBbVEzWm8wjfgmBeydQYj8xUidU=
+github.com/ffmoyano/gofer v0.0.0-20230226213312-b30af860e501/go.mod h1:zLhJMV4rj9LjQX6v6wtcIYaXq0uNOaUjOyI1E3MLoAE=
+github.com/go-sql-driver/mysql v1.7.0 h1:ueSltNNllEqE3qcWBTD0iQd3IpL/6U+mJxLkazJ7YPc=
+github.com/go-sql-driver/mysql v1.7.0/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
